@@ -1,0 +1,152 @@
+[{
+		"brand": "JRF",
+		"prdName": "JRF Long Sleeve Standard Logo Shirt",
+		"grpName": "JRFLogoLongShirt.jpg",
+		"Price": 65,
+		"msrp": 77,
+		"OnHand": 205,
+		"BackOrder": 22,
+		"description": "JRF Long Sleeve Shirt: Cotton Polyester Blend, Available in Black,White,Lime Green and lettering available in Black, White, Pink"
+	},
+	{
+		"brand": "JRF",
+		"prdName": "JRF Long Sleeve Logo Art Shirt",
+		"grpName": "JRFLogoArtShirt.jpg",
+		"Price": 75,
+		"msrp": 78,
+		"OnHand": 350,
+		"BackOrder": 130,
+		"description": "JRF Long Sleeve Logo Art Shirt: Cotton Polyester Blend, Available in Black,White,Lime Green and lettering available in Black, White, Pink"
+	},
+	{
+		"brand": "JRF",
+		"prdName": "JRF T-Shirt",
+		"grpName": "JRFTShirt.jpg",
+		"Price": 35,
+		"msrp": 788,
+		"OnHand": 500,
+		"BackOrder": 102,
+		"description": "JRF T-Shirt: Cotton Polyester Blend, Available in Black,White,Lime Green and lettering available in Black, White, Pink"
+	},
+	{
+		"brand": "JRF",
+		"prdName": "JRF Bandanna",
+		"grpName": "JRFBandanna.jpg",
+		"Price": 15,
+		"msrp": 150,
+		"OnHand": 705,
+		"BackOrder": 201,
+		"description": "JRF Bandanna: Cotton Polyester Blend, Available in Black,White,Lime Green and lettering available in Black, White, Pink"
+	},
+	{
+		"brand": "JRF",
+		"prdName": "JRF Running Shoes",
+		"grpName": "JRFRunners.jpg",
+		"Price": 165,
+		"msrp": 708,
+		"OnHand": 357,
+		"BackOrder": 77,
+		"description": "JRF Running Shoes: Rubber Soles come in White, Black, Pink, Top sport tech mesh available in Black,White,Lime Green and lettering available in Black, White, Pink"
+	},
+	{
+		"brand": "Lucy",
+		"prdName": "Lucy Dog Tie",
+		"grpName": "LucyDogTie.jpg",
+		"Price": 25,
+		"msrp": 55,
+		"OnHand": 200,
+		"BackOrder": 21,
+		"description": "Lucy Dog Tie: Stretchy, Available in Yellow,Light Blue,Pink with white dots."
+	},
+	{
+		"brand": "Lucy",
+		"prdName": "Lucy Bows",
+		"grpName": "Lucy Bows.jpg",
+		"Price": 15,
+		"msrp": 568,
+		"OnHand": 350,
+		"BackOrder": 190,
+		"description": "Lucy Bows:  Clip ons, Available in Yellow,Light Blue,Pink with white dots."
+	},
+	{
+		"brand": "Lucy",
+		"prdName": "Lucy Toy Bones",
+		"grpName": "LuctToyBone.jpg",
+		"Price": 10,
+		"msrp": 798,
+		"OnHand": 300,
+		"BackOrder": 52,
+		"description": "Lucy Toy Bones:  Available in Yellow,Light Blue,Pink with white dots."
+	},
+	{
+		"brand": "Lucy",
+		"prdName": "Lucy Bandanna",
+		"grpName": "LucyBandanna.jpg",
+		"Price": 15,
+		"msrp": 10,
+		"OnHand": 335,
+		"BackOrder": 250,
+		"description": "Lucy Bandanna:  Available in Yellow,Light Blue,Pink with white dots."
+	},
+	{
+		"brand": "Lucy",
+		"prdName": "Lucy Blanket",
+		"grpName": "LucyBlanket.jpg",
+		"Price": 25,
+		"msrp": 332,
+		"OnHand": 250,
+		"BackOrder": 75,
+		"description": "Lucy Blanket:  Available in Yellow,Light Blue,Pink with white dots."
+	},
+	{
+		"brand": "REZ",
+		"prdName": "Logo Socks",
+		"grpName": "REZSocks.jpg",
+		"Price": 25,
+		"msrp": 551,
+		"OnHand": 200,
+		"BackOrder": 21,
+		"description": "REZ Socks: Stretchy, Available in Red and Back,White and Black,Pink and Black, and Lime Green and Black."
+	},
+	{
+		"brand": "REZ",
+		"prdName": "REZ Belts",
+		"grpName": "REZBelt.jpg",
+		"Price": 45,
+		"msrp": 58,
+		"OnHand": 730,
+		"BackOrder": 10,
+		"description": "REZ Belt:  Leather, Available in Red and Back,White and Black,Pink and Black, and Lime Green and Black.."
+	},
+	{
+		"brand": "REZ",
+		"prdName": "REZ Bracelets",
+		"grpName": "REZBraceletes.jpg",
+		"Price": 10,
+		"msrp": 111,
+		"OnHand": 333,
+		"BackOrder": 53,
+		"description": "REZ Bracelets: Stretchy, Available in Red and Back,White and Black,Pink and Black, and Lime Green and Black."
+	},
+	{
+		"brand": "REZ",
+		"prdName": "REZ Bike Shorts",
+		"grpName": "REZBikeShorts.jpg",
+		"Price": 45,
+		"msrp": 890,
+		"OnHand": 240,
+		"BackOrder": 250,
+		"description": "REZ Bike Shorts:Stretchy, Available in Red and Back,White and Black,Pink and Black, and Lime Green and Black."
+	},
+	{
+		"brand": "REZ",
+		"prdName": "REZ Comfy T-Shirt",
+		"grpName": "REZTShirt.jpg",
+		"Price": 25,
+		"msrp": 430,
+		"OnHand": 435,
+		"BackOrder": 55,
+		"description": "REZ Comfy T-Shirt: Cotton, Available in Red and Back,White and Black,Pink and Black, and Lime Green and Black."
+	}
+
+]
