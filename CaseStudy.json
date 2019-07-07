@@ -1,7 +1,7 @@
 [{
 		"brand": "JRF",
-		"prdName": "JRF Long Sleeve Standard Logo Shirt",
-		"grpName": "JRFLogoLongShirt.jpg",
+		"prdName": "JRF Logo Shirt",
+		"grpName": "JRFLogoShirt.jpg",
 		"Price": 65,
 		"msrp": 77,
 		"OnHand": 205,
@@ -10,7 +10,7 @@
 	},
 	{
 		"brand": "JRF",
-		"prdName": "JRF Long Sleeve Logo Art Shirt",
+		"prdName": "JRF Logo Art Shirt",
 		"grpName": "JRFLogoArtShirt.jpg",
 		"Price": 75,
 		"msrp": 78,
@@ -40,7 +40,7 @@
 	},
 	{
 		"brand": "JRF",
-		"prdName": "JRF Running Shoes",
+		"prdName": "JRF Runners",
 		"grpName": "JRFRunners.jpg",
 		"Price": 165,
 		"msrp": 708,
@@ -140,7 +140,7 @@
 	},
 	{
 		"brand": "REZ",
-		"prdName": "REZ Comfy T-Shirt",
+		"prdName": "REZ Comfy Tee",
 		"grpName": "REZTShirt.jpg",
 		"Price": 25,
 		"msrp": 430,
